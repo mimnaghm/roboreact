@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Starcraft Normal";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Starcraft Normal"), url("Starcraft Normal.woff") format("woff");
+}
+
+h1 {
+  font-family: "Starcraft Normal";
+  color: white;
+  font-weight: 800;
+}
+
+::placeholder {
+  font-family: "Starcraft Normal";
+  color: #274957;
+}
+
+.foot {
+  font-family: "Starcraft Normal";
+  color: white;
+  font-weight: 600;
+}
